@@ -1,0 +1,24 @@
+## Luettelot
+
+
+- Ensimmäinen kohta
+- Toinen kohta
+- Kolmas kohta
+
+Tai numeroidut luettelot:
+
+1. Ensimmäinen kohta
+2. Toinen kohta
+3. Kolmas kohta
+
+## Taulokko
+| Nimi    | Ikä |
+|---------|-----|
+| Anna    | 25  |
+| Matti   | 30  |
+| Liisa   | 28  |
+## Linkit
+
+Voit lisätä linkkejä käyttämällä `[linkin nimi](URL-osoite)`. Esimerkiksi:
+
+[Lisätietoja Markdownista](https://guides.github.com/features/mastering-markdown/)
